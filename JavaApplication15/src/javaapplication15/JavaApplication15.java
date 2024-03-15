@@ -17,6 +17,7 @@ public class JavaApplication15 {
         System.out.print("hello world");
         System.out.print("hello AGAIN");
         System.out.print("hello walao");
+        System.out.print("hello walao");
 
     }
 
